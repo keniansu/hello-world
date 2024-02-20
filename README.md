@@ -1,10 +1,10 @@
-# Meu Primeiro Projeto
+# My first program
 
-Este é um simples programa "Hello World" em JavaScript.
+This is a simple program "Hello World" in JavaScript.
 
-## Como executar
+## How to execute
 
-Basta executar o arquivo `hello.js` usando o Node.js.
+Just execute the archive `hello.js` using Node.js.
 
 ```bash
 node hello.js
