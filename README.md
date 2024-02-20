@@ -1,2 +1,1 @@
-# Hello world
-Sic mundus creatus est
+It's just a simple code to get started.
